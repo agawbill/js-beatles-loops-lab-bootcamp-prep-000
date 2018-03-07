@@ -22,6 +22,6 @@ function iLoveTheBeatles (number){
   do {
   array.push('I love the Beatles')
   number ++
-  return array
-} while (maybeTrue());
+} while (iLoveTheBetles());
+return array
 }
