@@ -17,6 +17,7 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles (number){
+  return number < 15
   var array = []
   do {
   console.log('doo-bee-doo-bee-doo')
