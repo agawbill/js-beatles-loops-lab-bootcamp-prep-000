@@ -20,6 +20,8 @@ function iLoveTheBeatles (number){
   return number < 15
   var array = []
   do {
-  console.log('doo-bee-doo-bee-doo')
+  array.push('I love the Beatles')
+  number ++
+  return array
 } while (maybeTrue());
 }
